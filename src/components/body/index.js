@@ -5,6 +5,7 @@ import About from './about/index';
 import Projects from './projects/index';
 import Skills from './skills/index';
 import Experience from './experience/index';
+import Contact from './contact/index';
 
 function Body() {
     return (
@@ -20,6 +21,9 @@ function Body() {
             </section>
             <section id="experience">
                 <Experience />
+            </section>
+            <section id="contact">
+                <Contact />
             </section>
         </div>
     );
