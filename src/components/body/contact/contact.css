@@ -5,8 +5,10 @@
 }
 
 .section-title {
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 700;
+    font-family: 'Tourney', cursive;
+    color: #315659;
 }
 
 .contact-container {
@@ -20,11 +22,12 @@
 .contact-left {
     max-width: 60%;
     font-size: 20px;
+    font-weight: 700;
     text-align: center;
 }
 
 .download {
-    background-color: white;
+    background-color: #BCAB79;
     padding: 8px 16px;
     font-size: 24px;
     display: flex;
@@ -32,10 +35,14 @@
     align-items: center;
     border-radius: 4px;
 }
+.download:hover {
+    background-color: #2978A0;
+}
 
 .download a {
     text-decoration: none;
-    color: black;
+    color: whitesmoke;
+    font-weight: 600;
 }
 
 @media only screen and (max-width: 720px) {

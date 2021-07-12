@@ -9,17 +9,21 @@
 }
 
 .experience-logo {
-    height: 80px;
+    height: 100px;
+    width: 200px;
 }
 
 .work-info {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    font-weight: 700;
 }
 
 .work-dates {
-   color: white; 
+   color: whitesmoke;
+   font-size: large;
+   font-weight: 800;
 }
 
 .work-desc {

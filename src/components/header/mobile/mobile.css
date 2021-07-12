@@ -31,6 +31,9 @@
     margin: 12px 0px;
     display: flex;
 }
+.mobile-option:hover {
+    background-color: #BCAB79;
+}
 .mobile-option a {
     text-decoration: none;
     color: whitesmoke;

@@ -17,9 +17,9 @@
     font-size: 24px;
 }
 
-/* .mobile-menu {
+.mobile-menu {
     display: none;
-} */
+}
 
 .web-menu {
     display: flex;
@@ -28,7 +28,7 @@
 .logo {
     display: flex;
     font-size: 36px;
-    color: 	whitesmoke;
+    color: 	#C6E0FF;
     font-family: "Libre Barcode 39 Text", cursive;
 }
 

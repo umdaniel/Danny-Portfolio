@@ -8,8 +8,7 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    My name is
-                    <br /><span className="info-name">Danny Jeon.</span><br /> 
+                    <br /><span className="info-name">Danny Jeon</span><br /> 
                     I am a Computer Information Systems undergraduate at
                     James Madison University with a passion for buisness and software
                     development.

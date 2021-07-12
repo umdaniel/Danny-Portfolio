@@ -10,6 +10,9 @@
     border-radius: 8px;
     background-color: white;
 }
+.skill-card:hover {
+    background-color: #BCAB79;
+}
 
 .skill-icon {
     font-size: 80px;
@@ -17,6 +20,7 @@
 
 .skill-name {
     font-size: 18px;
+    font-weight: 700;
 }
 
 @media only screen and (max-width: 720px) {

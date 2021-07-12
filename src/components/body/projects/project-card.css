@@ -28,7 +28,8 @@
 
 .tag {
     padding: 4px 8px;
-    background-color: white;
+    background-color: #BCAB79;
+    color: whitesmoke;
     margin-right: 6px;
     margin-bottom: 4px;
     border-radius: 4px;
@@ -54,6 +55,9 @@
     border-radius: 4px;
     font-size: 16px;
     margin-right: 6px;
+}
+.link-button:hover {
+    background-color: #BCAB79;
 }
 
 .link-button i {

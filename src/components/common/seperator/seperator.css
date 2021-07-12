@@ -1,10 +1,7 @@
 .seperator {
-    background-image: linear-gradient(
-        to right top,
-        white,
-    );
+    background-color: whitesmoke;
     height: 6px;
-    width: 40%;
+    width: 100%;
     border-radius: 3px;
-    margin: 16px 0px;
+    margin: 20px 0px;
 }
